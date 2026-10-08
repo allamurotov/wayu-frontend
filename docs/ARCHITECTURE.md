@@ -41,3 +41,6 @@ All interactive components include WAI-ARIA roles, focus indicators, and keyboar
 
 ## 14. UI Animations & Interaction Timing
 Micro-interactions and modal transitions use Framer Motion springs with optimized transform and opacity properties.
+
+## 15. Error Boundaries & Fallback Displays
+Component boundaries isolate rendering failures and present helpful retry prompts without crashing the full view.
