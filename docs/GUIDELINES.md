@@ -14,3 +14,6 @@ Bundle analyzer checks third-party library weights to ensure minimal first-load 
 
 ## 5. CI/CD Automated Pipelines
 Automated GitHub Actions workflows run typecheck, linting, and unit test suites on every pull request.
+
+## 6. Semantic Versioning & Release Cycles
+Version numbers increment predictably following SemVer rules with automated tag generation.
