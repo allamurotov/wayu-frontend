@@ -8,3 +8,6 @@ Branches follow structured prefixes (`feature/`, `fix/`, `chore/`) with conventi
 
 ## 3. End-to-End Testing Workflow
 Critical user journeys (authentication, checkout, form submissions) are covered by headless Playwright tests.
+
+## 4. Production Build & Bundle Optimization
+Bundle analyzer checks third-party library weights to ensure minimal first-load JS size.
