@@ -11,3 +11,6 @@ Critical user journeys (authentication, checkout, form submissions) are covered 
 
 ## 4. Production Build & Bundle Optimization
 Bundle analyzer checks third-party library weights to ensure minimal first-load JS size.
+
+## 5. CI/CD Automated Pipelines
+Automated GitHub Actions workflows run typecheck, linting, and unit test suites on every pull request.
