@@ -17,3 +17,6 @@ Hooks encapsulate reusable logic including scroll listeners, media queries, debo
 
 ## 6. Form Handling & Schema Validation
 Forms integrate React Hook Form with Zod schema validation to provide immediate field-level feedback and typed form payloads.
+
+## 7. HTTP Client Architecture
+API communication utilizes an Axios/fetch wrapper configured with base URLs, authorization headers, and unified error handling.
