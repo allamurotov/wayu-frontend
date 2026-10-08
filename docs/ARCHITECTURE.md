@@ -29,3 +29,6 @@ Images leverage next/image with responsive srcset generation, lazy loading, and 
 
 ## 10. Tailwind CSS Utility Conventions
 Utility classes follow standardized precedence: layout, box model, typography, backgrounds, and conditional variants.
+
+## 11. Dynamic Metadata & SEO Configuration
+Metadata generation functions populate dynamic title tags, canonical URLs, and OpenGraph social cards per route.
