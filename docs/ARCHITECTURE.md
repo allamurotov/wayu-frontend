@@ -11,3 +11,6 @@ Global application state uses lightweight React Context providers wrapped at roo
 
 ## 4. Reusable UI Component Contracts
 Atomic components like buttons, modals, and input fields define strict TypeScript prop interfaces and accessible variants.
+
+## 5. Custom React Hooks
+Hooks encapsulate reusable logic including scroll listeners, media queries, debounce filters, and local storage synchronization.
