@@ -47,3 +47,6 @@ Component boundaries isolate rendering failures and present helpful retry prompt
 
 ## 16. Component Testing Standards
 Testing suites verify component rendering, accessibility, and user event reactions using Jest and React Testing Library.
+
+## 17. Client Data Caching Strategies
+Remote data synchronization leverages stale-while-revalidate caching to minimize unnecessary network traffic.
