@@ -38,3 +38,6 @@ UI labels and notification messages reference localized dictionary keys supporti
 
 ## 13. Accessibility & Keyboard Navigation
 All interactive components include WAI-ARIA roles, focus indicators, and keyboard navigation listeners.
+
+## 14. UI Animations & Interaction Timing
+Micro-interactions and modal transitions use Framer Motion springs with optimized transform and opacity properties.
