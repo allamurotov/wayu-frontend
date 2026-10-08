@@ -20,3 +20,6 @@ Forms integrate React Hook Form with Zod schema validation to provide immediate 
 
 ## 7. HTTP Client Architecture
 API communication utilizes an Axios/fetch wrapper configured with base URLs, authorization headers, and unified error handling.
+
+## 8. Protected Routes & Middleware Authentication
+Next.js Edge middleware guards private route patterns, redirecting unauthenticated sessions to login.
