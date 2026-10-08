@@ -44,3 +44,6 @@ Micro-interactions and modal transitions use Framer Motion springs with optimize
 
 ## 15. Error Boundaries & Fallback Displays
 Component boundaries isolate rendering failures and present helpful retry prompts without crashing the full view.
+
+## 16. Component Testing Standards
+Testing suites verify component rendering, accessibility, and user event reactions using Jest and React Testing Library.
