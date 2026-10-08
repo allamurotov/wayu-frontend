@@ -26,3 +26,6 @@ Next.js Edge middleware guards private route patterns, redirecting unauthenticat
 
 ## 9. Asset & Image Optimization
 Images leverage next/image with responsive srcset generation, lazy loading, and modern WebP/AVIF format transcoding.
+
+## 10. Tailwind CSS Utility Conventions
+Utility classes follow standardized precedence: layout, box model, typography, backgrounds, and conditional variants.
