@@ -50,3 +50,6 @@ Testing suites verify component rendering, accessibility, and user event reactio
 
 ## 17. Client Data Caching Strategies
 Remote data synchronization leverages stale-while-revalidate caching to minimize unnecessary network traffic.
+
+## 18. Atomic Design Hierarchy & Architecture Summary
+File structures cleanly decouple dumb presentation components from stateful container hooks and API integrations.
