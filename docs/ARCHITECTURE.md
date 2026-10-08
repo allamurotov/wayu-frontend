@@ -35,3 +35,6 @@ Metadata generation functions populate dynamic title tags, canonical URLs, and O
 
 ## 12. Internationalization (i18n) Architecture
 UI labels and notification messages reference localized dictionary keys supporting multi-language switching.
+
+## 13. Accessibility & Keyboard Navigation
+All interactive components include WAI-ARIA roles, focus indicators, and keyboard navigation listeners.
