@@ -23,3 +23,6 @@ API communication utilizes an Axios/fetch wrapper configured with base URLs, aut
 
 ## 8. Protected Routes & Middleware Authentication
 Next.js Edge middleware guards private route patterns, redirecting unauthenticated sessions to login.
+
+## 9. Asset & Image Optimization
+Images leverage next/image with responsive srcset generation, lazy loading, and modern WebP/AVIF format transcoding.
