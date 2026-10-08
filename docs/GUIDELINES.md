@@ -5,3 +5,6 @@ Code adheres strictly to unified Prettier formatting and ESLint rules across Typ
 
 ## 2. Git Feature Branch & Pull Request Conventions
 Branches follow structured prefixes (`feature/`, `fix/`, `chore/`) with conventional commit standards.
+
+## 3. End-to-End Testing Workflow
+Critical user journeys (authentication, checkout, form submissions) are covered by headless Playwright tests.
