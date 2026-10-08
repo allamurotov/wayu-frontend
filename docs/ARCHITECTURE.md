@@ -8,3 +8,6 @@ Routing follows Next.js App Router conventions with organized route groups, layo
 
 ## 3. Client State Management & Providers
 Global application state uses lightweight React Context providers wrapped at root layout level with minimal re-render scope.
+
+## 4. Reusable UI Component Contracts
+Atomic components like buttons, modals, and input fields define strict TypeScript prop interfaces and accessible variants.
