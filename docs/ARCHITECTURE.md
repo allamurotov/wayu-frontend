@@ -5,3 +5,6 @@ The design system establishes standard spacing scales, color palettes, and conta
 
 ## 2. Next.js App Router Structure
 Routing follows Next.js App Router conventions with organized route groups, layout wrappers, and parallel loading states.
+
+## 3. Client State Management & Providers
+Global application state uses lightweight React Context providers wrapped at root layout level with minimal re-render scope.
