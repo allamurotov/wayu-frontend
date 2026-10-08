@@ -32,3 +32,6 @@ Utility classes follow standardized precedence: layout, box model, typography, b
 
 ## 11. Dynamic Metadata & SEO Configuration
 Metadata generation functions populate dynamic title tags, canonical URLs, and OpenGraph social cards per route.
+
+## 12. Internationalization (i18n) Architecture
+UI labels and notification messages reference localized dictionary keys supporting multi-language switching.
